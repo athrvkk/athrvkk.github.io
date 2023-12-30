@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile1_circle.jpg
+  image: profile1_circle.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>5814 Gates Hillman Center, Carnegie Mellon University</p>
