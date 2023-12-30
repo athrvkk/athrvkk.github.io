@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile1_circle.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>5814 Gates Hillman Center, Carnegie Mellon University</p>
+    <p>5000 Forbes Avenue</p>
+    <p>Pittsburgh, PA, USA/p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
