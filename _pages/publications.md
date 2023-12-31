@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-years: [2023, 2022, 2021, 2020]
+years: [2024, 2023, 2022, 2021, 2020]
 nav: true
 subtitle: My <a href="https://scholar.google.com/citations?user=tQTAiXwAAAAJ&hl=en"> Google Scholar </a> is more likely to be up to date.
 ---
