@@ -23,6 +23,12 @@
               {%- endfor %}
               </table>
             </div>
+            {%- for page in site.pages -%}
+            {% if page.title == 'news' %}
+              {% assign p = page %}
+            {% endif %}
+            {% endfor %}
+              <a href="{{ p.url | relative_url }}"> 🕰️ all news ...</a>
           {%- else -%}
             <p>No news so far...</p>
           {%- endif %}
