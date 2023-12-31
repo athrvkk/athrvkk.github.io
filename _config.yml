@@ -242,7 +242,8 @@ scholar:
   last_name: Kulkarni
   first_name: [Atharva, A.]
 
-  style: association-for-computational-linguistics
+  # style: association-for-computational-linguistics
+  style: apa
   locale: en
 
   ssource: /_bibliography/
