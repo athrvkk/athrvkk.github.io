@@ -8,7 +8,7 @@ profile:
   align: right
   # image: profile.jpg
   image: profile_circle.png
-  image_circular: False # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   address:
     <p>5814 Gates Hillman Center, Carnegie Mellon University</p>
     <p>5000 Forbes Avenue</p>
