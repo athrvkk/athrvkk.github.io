@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-10-31 15:59:00-0400
+date: 2023-04-19 07:59:00-0400
 inline: true
+related_posts: false
 ---
 
-Work on [Facutal Error Correction](https://aclanthology.org/2023.findings-emnlp.451.pdf) and [Multitask Learning for Worst-Group Generalization](https://arxiv.org/pdf/2312.03151.pdf) got accepted to NeurIPS 2023 Workshop [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) and [SSLTheoryPractice23](https://sslneurips23.github.io), respectively.
+Work on [Poverty Identification](https://www.ijcai.org/proceedings/2023/0709.pdf) accepted at [IJCAI 2023](https://ijcai-23.org/call-for-papers-ai-and-social-good/).
