@@ -4,7 +4,7 @@ permalink: /news/
 title: News
 description: All news in reversed chronological order.
 nav: true
-nav_order: 7
+nav_order: 3
 
 ---
 <!-- _pages/news.md -->
