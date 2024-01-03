@@ -24,21 +24,8 @@ hr {
 }
 
 th.date-header {
-  height: 2rem;
-  margin-bottom: 0.5rem;
-
-  display: inline-block;
+  color: var(--white-color);
   background-color: var(--global-theme-color);
-  padding-left: 1rem;
-  padding-right: 1rem;
-
-    a {
-      color: white;
-
-      &:hover {
-        text-decoration: none;
-      }
-    }
 }
 
 table {
