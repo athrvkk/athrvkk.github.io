@@ -23,6 +23,22 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+// Use variables in generated CSS
+th.date-header {
+  display: inline-block;
+  background-color: var(--global-theme-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  a {
+    color: white;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
 table {
   td,
   th {
