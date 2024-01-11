@@ -31,6 +31,6 @@ Currently, I am working on information theoretic measures for improving fairness
 
 Before coming to CMU, I was a Predoctoral Researcher / Research Associate with <a href="https://tanmoychak.com/">Prof. Tanmoy Chakraborty</a> at the <a href="https://www.lcs2.in/">Laboratory for Computational Social Systems (LCS2), IIIT Delhi</a> working on various research projects in NLP, multimodal machine learning, social computing, and conversational systems. My research has been published at top NLP/ML conferences such as <strong>ACL, EMNLP, EACL, SIGKDD</strong>, and <strong>IJCAI</strong>. 
 
-You can learn more about my publications [here](./publications). You can find my detailed CV [here](./assets/pdf/CMU_CV_latest.pdf).
+You can learn more about my publications [here](./publications). You can find my detailed CV [here](./assets/pdf/Atharva_Kulkarni_CV.pdf).
 
 I'm eager to connect with my academic peers! If our research interests align (or diverge) in intriguing ways, I'd be delighted to explore potential collaborations or simply exchange ideas! Additionally, I'm also looking for <strong>research internship opportunities for Summer 2024</strong> to work on data-centric machine learning or generalization / fairness / efficiency of LLMs. Please feel free to reach out via email, if there is a good fit!
