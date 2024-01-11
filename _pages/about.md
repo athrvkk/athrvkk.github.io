@@ -22,9 +22,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hello ! I am a second year <a href="https://lti.cs.cmu.edu/mlt/">Masters of Language Technologies (MLT)</a> student in the <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute</a>, <a href="https://www.cs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a>. My research interests lie at the intersection of machine learning and natural language processing, with a particular focus on:
 <ul>
-  <li>Generalization, robustness, distribution shifts, and fairness</li>
-  <li>Learning with limited data, active learning, data valuation algorithms, and data-centric machine learning</li>
-  <li>Parameter efficient machine learning</li>
+  <li>Analyzing and enhancing generalization, robustness, and fairness of present-day neural networks (particularly LLMs).</li>
+  <li>Learning with limited data, active learning, data valuation algorithms, and data-centric machine learning.</li>
+  <li>Parameter efficient machine learning.</li>
 </ul>  
 
 Currently, I am working on information theoretic measures for improving fairness and robustness of ML/NLP systems. I've also been fortunate to collaborate with several esteemed facutly at CMU, such as <a href="http://www.phontron.com/index.php">Graham Neubig</a>, <a href="https://www.cs.cmu.edu/~aditirag/">Aditi Raghunathan</a>, <a href="https://www.cs.cmu.edu/~atalwalk/">Ameet Talwalkar</a>, <a href="https://strubell.github.io">Emma Strubell</a>, and <a href="https://www.cs.cmu.edu/~dmortens/">David R. Mortensen</a>, on various research projects that analyze and improve generalization and efficiency of neural networks. For the summer of 2023, I interned with <a href="https://machinelearning.apple.com">Apple Research (Siri)</a>, investigating the emergent capabilities of LLMs for dialog applications. 
