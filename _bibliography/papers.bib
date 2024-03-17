@@ -4,28 +4,38 @@
 @string{aps = {American Physical Society,}}
 
 
-@inproceedings{kulkarni2023multitask,
-  title={Multitask Learning Can Improve Worst-Group Outcomes},
-  author={Kulkarni<sup>*</sup>, Atharva and Dery<sup>*</sup>, Lucio and Setlur, Amrith and Raghunathan, Aditi and Talwalkar, Ameet and Neubig, Graham},
-  booktitle={Proceedings of TMLR 2024 \& NeurIPS 2023 Workshop on Self-Supervised Learning - Theory and Practice (SSLTheoryPractice)},
-  abbr={TMLR},
-  year={2024},
-  html = {https://arxiv.org/abs/2312.03151},
-  pdf = {https://arxiv.org/pdf/2312.03151.pdf},
-  abstract={In order to create machine learning systems that serve a variety of users well, it is vital to not only achieve high average performance but also ensure equitable outcomes across diverse groups. However, most machine learning methods are designed to improve a model's average performance on a chosen end task without consideration for their impact on worst group error. Multitask learning (MTL) is one such widely used technique. In this paper, we seek not only to understand the impact of MTL on worst-group accuracy but also to explore its potential as a tool to address the challenge of group-wise fairness. We primarily consider the common setting of fine-tuning a pre-trained model, where, following recent work (Gururangan et al., 2020; Dery et al., 2023), we multitask the end task with the pre-training objective constructed from the end task data itself. In settings with few or no group annotations, we find that multitasking often, but not always, achieves better worst-group accuracy than Just-Train-Twice (JTT; Liu et al. (2021)) -- a representative distributionally robust optimization (DRO) method. Leveraging insights from synthetic data experiments, we propose to modify standard MTL by regularizing the joint multitask representation space. We run a large number of fine-tuning experiments across computer vision and natural language and find that our regularized MTL approach consistently outperforms JTT on both worst and average group outcomes. Our official code can be found here: this https URL.},
-  selected = {true},
+
+@article{
+kulkarni2024multitask,
+title={Multitask Learning Can Improve Worst-Group Outcomes},
+author={Atharva Kulkarni and Lucio M. Dery and Amrith Setlur and Aditi Raghunathan and Ameet Talwalkar and Graham Neubig},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=sPlhAIp6mk},
+note={},
+abbr={TMLR},
 }
 
-@inproceedings{Kulkarniapple,
-  title= "SynthDST: Synthetic Data is All You Need for Few-Shot Dialog State Tracking", 
-  author="Atharva Kulkarni and Bo-Hsiang Tseng and Joel Ruben Antony Moniz and Dhivya Piraviperumal and Hong Yu and Shruti Bhargava",
-  booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics",
-  selected = {true},
-  abbr={EACL},
-  year={2024},
-  pdf = {https://arxiv.org/abs/2402.02285},
-  html = {https://arxiv.org/pdf/2402.02285.pdf},
-  abstract = {In-context learning with Large Language Models (LLMs) has emerged as a promising avenue of research in Dialog State Tracking (DST). However, the best-performing in-context learning methods involve retrieving similar examples in the prompt, often necessitating access to labeled training data. Procuring such training data for a wide range of domains and applications is time-consuming, expensive, and, at times, infeasible. While zero-shot learning requires no training data, it significantly lags behind the few-shot setup. Thus, `Can we efficiently generate synthetic data for any dialogue schema to enable few-shot prompting?' Addressing this question, we propose SynthDST, a data generation framework tailored for DST, utilizing LLMs. Our approach only requires the dialogue schema and a few hand-crafted dialogue templates to synthesize natural, coherent, and free-flowing dialogues with DST annotations. Few-shot learning using data from {\method} results in 4-5% improvement in Joint Goal Accuracy over the zero-shot baseline on MultiWOZ 2.1 and 2.4. Remarkably, our few-shot learning approach recovers nearly 98% of the performance compared to the few-shot setup using human-annotated training data.}
+@inproceedings{kulkarni-etal-2024-synthdst,
+    title = "{S}ynth{DST}: Synthetic Data is All You Need for Few-Shot Dialog State Tracking",
+    author = "Kulkarni, Atharva  and
+      Tseng, Bo-Hsiang  and
+      Moniz, Joel  and
+      Piraviperumal, Dhivya  and
+      Yu, Hong  and
+      Bhargava, Shruti",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.eacl-long.120",
+    pages = "1988--2001",
+    abbr={EACL},
+    abstract = "In-context learning with Large Language Models (LLMs) has emerged as a promising avenue of research in Dialog State Tracking (DST). However, the best-performing in-context learning methods involve retrieving and adding similar examples to the prompt, requiring access to labeled training data. Procuring such training data for a wide range of domains and applications is time-consuming, expensive, and, at times, infeasible. While zero-shot learning requires no training data, it significantly lags behind the few-shot setup. Thus, {`}\textit{Can we efficiently generate synthetic data for any dialogue schema to enable few-shot prompting?}' Addressing this question, we propose , a data generation framework tailored for DST, utilizing LLMs. Our approach only requires the dialogue schema and a few hand-crafted dialogue templates to synthesize natural, coherent, and free-flowing dialogues with DST annotations. Few-shot learning using data from results in $4-5\%$ improvement in Joint Goal Accuracy over the zero-shot baseline on MultiWOZ 2.1 and 2.4. Remarkably, our few-shot learning approach recovers nearly 98{\%} of the performance compared to the few-shot setup using human-annotated training data.",
 }
 
 @inproceedings{ashok-etal-2023-student,
