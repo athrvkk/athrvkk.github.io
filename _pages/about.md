@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: new_profile.jpg
+  image: north_cascades_profile.jpeg
   # image: profile_circle.png
   image_circular: True # crops the image to make it circular
   address:
@@ -20,12 +20,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello ! I am a first year CS PhD student at the <a href="https://www.usc.edu"> University of Southern California </a>, <a href="https://www.cs.usc.edu"> Thomas Lord Department of Computer Science </a>, advised by the amazing <a href="https://swabhs.com"> Swabha Swayamdipta </a>. I recently graduated from <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, with a <a href="https://lti.cs.cmu.edu/mlt/">Masters of Language Technologies (MLT)</a>, where I was advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> and <a href="http://www.phontron.com"> Graham Neubig </a>. 
+Hello ! I am a first year CS PhD student at the <a href="https://www.usc.edu"> University of Southern California (USC)</a>, advised by the amazing <a href="https://swabhs.com"> Swabha Swayamdipta</a>. I recently graduated from the <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute (LTI)</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University (CMU)</a>, with a <a href="https://lti.cs.cmu.edu/mlt/">Masters of Language Technologies (MLT)</a>, where I was advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> & <a href="http://www.phontron.com"> Graham Neubig</a>. 
 
-My research interests lie at the intersection of machine learning and natural language processing, with a particular focus on Robust, Generalizable, & Trustworthy NLP. 
+My research interests lie at the intersection of machine learning & natural language processing, with a particular focus on Robust, Generalizable, & Trustworthy NLP. More recently, I have been interested in uncertainty quantification & robustness evaluation of Large Langauge Models (LLMs).
 
-Before coming to CMU, I was a Predoctoral Researcher (Research Associate with) <a href="https://tanmoychak.com/">Prof. Tanmoy Chakraborty</a> at the <a href="https://www.lcs2.in/">Laboratory for Computational Social Systems (LCS2), IIT Delhi</a> , where I worked on various research projects in multimodal machine learning, social computing, and dialog systems.
+During my masters, I interned at <a href="https://machinelearning.apple.com">Apple Research</a> twice (summer 2023 & 2024) with the Siri & Information Intelligence group. I worked on hallucination evaluation & synthetic data generation, both in the context of LLMs.
 
-You can learn more about my publications [here](./publications). You can find my detailed CV [here](./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf).
+Before coming to CMU, I was a Predoctoral Researcher (Research Associate) with <a href="https://tanmoychak.com/">Tanmoy Chakraborty's</a> group at the <a href="https://www.lcs2.in/">Laboratory for Computational Social Systems (LCS2), IIT Delhi</a>, where I worked on various research projects on multimodal machine learning, social computing, & dialog systems.
+
+My research has been published at top NLP/ML venues such as <strong>TMLR, ACL, EMNLP, EACL, SIGKDD</strong>, & <strong>IJCAI</strong>. You can learn more about my publications [here](./publications). You can find my detailed CV [here](./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf).
 
 I'm eager to connect with my academic peers! If our research interests align (or diverge) in intriguing ways, I'd be delighted to explore potential collaborations or simply exchange ideas! Additionally, I'm also looking for <strong>research internship opportunities for Summer 2025</strong>. Please feel free to reach out via email, if there is a good fit!
