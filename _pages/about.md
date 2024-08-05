@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: CS PhD at <a href="https://www.usc.edu">USC</a> • MLT at <a href="https://www.lti.cs.cmu.edu/">CMU LTI</a>
+subtitle: <strong >CS PhD at <a href="https://www.usc.edu">USC</a> • MLT at <a href="https://www.lti.cs.cmu.edu/">CMU LTI</a> • [CV](./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf)</strong>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am a first year CS PhD student at the <a href="https://www.usc.edu"> University of Southern California (USC)</a>, advised by the amazing <a href="https://swabhs.com"> Swabha Swayamdipta</a> as a part of the <a href="https://nlp.usc.edu">USC NLP Group</a> and <a href="https://dill-lab.github.io">Dill Lab</a>.
 
-My research interests lie at the intersection of machine learning & natural language processing, with a particular focus on <strong>Robust, Generalizable,</strong> & <strong>Trustworthy NLP</strong>. More recently, I have been interested in <strong>uncertainty quantification</strong> & <strong>robustness evaluation of Large Langauge Models (LLMs)</strong>.
+My research interests lie at the intersection of machine learning & natural language processing, with a particular focus on <strong>Robust, Generalizable, & Trustworthy NLP</strong>. More recently, I have been interested in <strong>uncertainty quantification & robustness evaluation of Large Langauge Models (LLMs)</strong>.
 
 I recently graduated from the <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute (LTI)</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University (CMU)</a>, with a <a href="https://lti.cs.cmu.edu/mlt/">Masters of Language Technologies (MLT)</a>, where I was advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> & <a href="http://www.phontron.com"> Graham Neubig</a>. 
 
