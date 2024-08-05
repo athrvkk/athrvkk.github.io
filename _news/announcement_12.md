@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Returning to the Siri & Information Intelligence group at [Apple Research](https://machinelearning.apple.com/) for my 2nd internship!. This time around I will be working on evaluating evalutation hallucinations in LLMs.
+Returning to the Siri & Information Intelligence group at [Apple Research](https://machinelearning.apple.com/) for my 2nd internship!. This time around I will be working on evaluating evalutation metrics for hallucinations in LLMs.
