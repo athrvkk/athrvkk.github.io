@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong><u>CS PhD at <a href="https://www.usc.edu">USC</a></u> • <u>MLT at <a href="https://www.lti.cs.cmu.edu/">CMU</a></u> • <u><a href="./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf">CV</a></u></strong>
+subtitle: <strong>CS PhD at <a href="https://www.usc.edu">USC</a>&#9;•&#9;MLT at <a href="https://www.lti.cs.cmu.edu/">CMU</a>&#9;•&#9;<a href="./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf">CV</a></strong>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
