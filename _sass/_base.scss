@@ -28,6 +28,21 @@ hr {
 //   background-color: var(--global-theme-color);
 // }
 
+th.date-header {
+  display: inline-block;
+  background-color: var(--global-theme-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  a {
+    color: --global-text-color;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
 table {
   td,
   th {
