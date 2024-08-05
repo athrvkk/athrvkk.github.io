@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my summer research internship at [Apple ML Research (Siri)](https://machinelearning.apple.com/).
+Started my summer research internship at [Apple Research](https://machinelearning.apple.com/) with the Siri & Information Intelligence group. I will be working on synthetic data generation using LLMs for dialog applications.

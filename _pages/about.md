@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: north_cascades_profile.jpeg
+  image: malta_profile.jpeg
   # image: profile_circle.png
   image_circular: True # crops the image to make it circular
   address:

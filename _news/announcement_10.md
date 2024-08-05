@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-10-31 15:59:00-0400
+date: 2024-01-18 15:59:00-0400
 inline: true
 ---
 
-Work on [Facutal Error Correction](https://aclanthology.org/2023.findings-emnlp.451.pdf) and [Multitask Learning for Worst-Group Generalization](https://arxiv.org/pdf/2312.03151.pdf) accepted to [SyntheticData4ML](https://www.syntheticdata4ml.vanderschaar-lab.com) and [SSLTheoryPractice23](https://sslneurips23.github.io) workshops at NeurIPS 2023, respectively.
+Summer 2023 internship work at [Apple ML Research (Siri)](https://machinelearning.apple.com/) on [synthetic data generation for few-shot DST]() got accepted to [EACL 2024 main conference](https://2024.eacl.org). See you in Malta!

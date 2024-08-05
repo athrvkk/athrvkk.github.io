@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2024-02-15 15:59:00-0400
+date: 2024-05-28 07:59:00-0400
 inline: true
+related_posts: false
 ---
 
-Long standing work on [Multitask Learning for Worst-Group Generalization](https://arxiv.org/pdf/2312.03151.pdf) got accepted to [TMLR 2024](https://http://tmlr.org)!
+Returning to the Siri & Information Intelligence group at [Apple Research](https://machinelearning.apple.com/) for my 2nd internship!. This time around I will be working on evaluating evalutation hallucinations in LLMs.
