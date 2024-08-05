@@ -23,10 +23,10 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-// th.date-header {
-//   color: var(--white-color);
-//   background-color: var(--global-theme-color);
-// }
+th.date-header {
+  color: var(--global-text-color);
+  background-color: var(--global-theme-color);
+}
 
 table {
   td,
