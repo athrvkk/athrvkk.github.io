@@ -16,7 +16,7 @@ nav_order: 3
                 {%- assign news = site.news | reverse -%}
                 {% for item in news %}
                     <tr>
-                        <!-- <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th> -->
+                        <!-- <th class="date-header"><abbr class="badge">{{ item.date | date: "%b %Y" }}</abbr></th> -->
                         <th scope="row abbr"><abbr class="badge">{{ item.date | date: "%b %Y" }}</abbr></th>
                         <td>
                             {% if item.inline -%} 
