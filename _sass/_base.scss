@@ -23,12 +23,6 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-
-table.badge {
-  color: var(--global-text-color) !important;
-  background-color: var(--global-theme-color) !important;
-}
-
 table {
   td,
   th {
@@ -452,7 +446,7 @@ footer.sticky-bottom {
       border-color: var(--global-divider-color);
 
       .badge {
-        color: var(--global-text-color) !important;
+        color: var(--global-card-bg-color) !important;
         background-color: var(--global-theme-color) !important;
       }
     }
@@ -684,7 +678,7 @@ footer.sticky-bottom {
           padding-right: 1rem;
 
           a {
-            color: --global-text-color;
+            color: white;
 
             &:hover {
               text-decoration: none;

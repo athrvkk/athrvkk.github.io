@@ -17,7 +17,8 @@ nav_order: 3
                 {% for item in news %}
                     <tr>
                         <!-- <th class="date-header"><abbr class="badge">{{ item.date | date: "%b %Y" }}</abbr></th> -->
-                        <th scope="row abbr"><abbr class="badge">{{ item.date | date: "%b %Y" }}</abbr></th>
+                        <!-- <th scope="row abbr"><abbr class="badge">{{ item.date | date: "%b %Y" }}</abbr></th> -->
+                        <th scope="row" style="width:10%">{{ item.date | date: "%b %Y" }}</th>
                         <td>
                             {% if item.inline -%} 
                                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
