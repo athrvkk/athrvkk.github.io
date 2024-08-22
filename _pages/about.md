@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a first year CS PhD student at the <a href="https://www.usc.edu"> University of Southern California (USC)</a>, advised by the amazing <a href="https://swabhs.com"> Swabha Swayamdipta</a> as a part of the <a href="https://nlp.usc.edu">USC NLP Group</a> and <a href="https://dill-lab.github.io">DILL Lab</a>.
+Hello! I am a first year CS PhD student at the <a href="https://www.usc.edu"> University of Southern California (USC)</a>, advised by <a href="https://swabhs.com">Swabha Swayamdipta</a> as a part of the <a href="https://nlp.usc.edu">USC NLP Group</a> and <a href="https://dill-lab.github.io">DILL Lab</a>.
 
 My research interests lie at the intersection of machine learning & natural language processing, with a particular focus on <strong>Robust, Generalizable, & Trustworthy NLP</strong>. More recently, I have been interested in <strong>uncertainty quantification & robustness evaluation of Large Langauge Models (LLMs)</strong>.
 
-I recently graduated from the <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute (LTI)</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University (CMU)</a>, with a <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Masters of Language Technologies (MLT)</a>, where I was advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> & <a href="http://www.phontron.com"> Graham Neubig</a>. 
+I recently graduated with a <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Masters of Language Technologies (MLT)</a> from the <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute (LTI)</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University (CMU)</a>, where I was advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> & <a href="http://www.phontron.com"> Graham Neubig</a>. 
 
 During my masters, I interned at <a href="https://machinelearning.apple.com">Apple Research</a> twice (summer 2023 & 2024) with the <strong>Siri & Information Intelligence group</strong>. I worked on hallucination evaluation & synthetic data generation, both in the context of LLMs.
 
