@@ -17,9 +17,9 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⛰️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://atharvajk98.github.io # the base hostname & protocol for your site
+url: https://athrvkk.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: True # set to true if you want to display last updated in the footer
+last_updated: False # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -50,7 +50,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 900px
+max_width: 1200px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -66,9 +66,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: atharvajk98
-x_username: atharvajk25
-linkedin_username: atharvajk
+github_username: athrvkk
+x_username: athrvkk
+linkedin_username: athrvkk
 telegram_username: # your Telegram user name
 scholar_userid: tQTAiXwAAAAJ
 semanticscholar_id: 1992797499
@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Slack (CMU / USC) or email is usually the best way to reach me!
+  Slack (USC / CMU) or email is usually the best way to reach me!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

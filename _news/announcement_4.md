@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Work on [Hateful memes](https://aclanthology.org/2023.eacl-main.157.pdf) accepted at [EACL 2023 main conference](https://2023.eacl.org/program/accepted/).
+Work on [Hateful memes](https://aclanthology.org/2023.eacl-main.157.pdf) accepted at [EACL 2023 main conference](https://2023.eacl.org/program/accepted/) :croatia:!

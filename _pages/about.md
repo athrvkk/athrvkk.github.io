@@ -19,16 +19,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a first year CS PhD student at the <a href="https://www.usc.edu"> University of Southern California (USC)</a>, advised by <a href="https://swabhs.com">Swabha Swayamdipta</a> as a part of the <a href="https://nlp.usc.edu">USC NLP Group</a> and <a href="https://dill-lab.github.io">DILL Lab</a>.
+Hello! I am a first year CS PhD student at the <a href="https://www.usc.edu">University of Southern California</a>, advised by <a href="https://swabhs.com">Swabha Swayamdipta</a>, and a member of <a href="https://nlp.usc.edu">USC NLP Group</a> and <a href="https://dill-lab.github.io">DILL Lab</a>.
 
-My research interests lie at the intersection of machine learning & natural language processing, with a particular focus on <strong>Robust, Generalizable, & Trustworthy NLP</strong>. More recently, I have been interested in <strong>uncertainty quantification & robustness evaluation of Large Langauge Models (LLMs)</strong>.
+My research interests lie at the intersection of machine learning & natural language processing, with a particular focus on <strong>Robust, Generalizable, & Trustworthy NLP</strong>. More recently, I have been interested in <strong>uncertainty quantification</strong> and <strong>evaluating robustness of langauge models</strong>.
 
-I recently graduated with a <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Masters of Language Technologies (MLT)</a> from the <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute (LTI)</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University (CMU)</a>, where I was advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> & <a href="http://www.phontron.com"> Graham Neubig</a>. 
+I recently graduated with a <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Masters in Language Technologies (MLT)</a> from <a href="https://www.cmu.edu/">Carnegie Mellon University</a> -- <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute</a>. I was fortunate to be advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> & <a href="http://www.phontron.com">Graham Neubig</a>. During my masters, I interned at <a href="https://machinelearning.apple.com">Apple</a> twice (summer '23 & '24) with the Siri & Information Intelligence group. 
+<!-- I worked on hallucination evaluation & synthetic data generation, both in the context of LLMs. -->
 
-During my masters, I interned at <a href="https://machinelearning.apple.com">Apple Research</a> twice (summer 2023 & 2024) with the <strong>Siri & Information Intelligence group</strong>. I worked on hallucination evaluation & synthetic data generation, both in the context of LLMs.
+Before coming to CMU, I was a Predoctoral Researcher (Research Associate) with <a href="https://tanmoychak.com/">Tanmoy Chakraborty</a> at the <a href="https://www.lcs2.in/">Laboratory for Computational Social Systems (LCS2), IIIT Delhi</a>.
+ <!-- where I worked on various research projects on multimodal machine learning, social computing, & dialog systems. -->
+ Even before that, I graduated with a Bachelors in Computer Science from <a href="https://http://www.unipune.ac.in">Savtribai Phule Pune University</a>.
 
-Before coming to CMU, I was a Predoctoral Researcher (Research Associate) with <a href="https://tanmoychak.com/">Tanmoy Chakraborty's</a> group at the <a href="https://www.lcs2.in/">Laboratory for Computational Social Systems (LCS2), IIT Delhi</a>, where I worked on various research projects on multimodal machine learning, social computing, & dialog systems.
 
-My research has been published at top NLP/ML venues such as <strong>TMLR, ACL, EMNLP, EACL, SIGKDD, & IJCAI</strong>. You can learn more about my publications [here](./publications). You can find my <strong>detailed CV [here](./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf)</strong>.
-
+<!-- <strong>Outreach</strong> --  -->
 I'm eager to connect with my academic peers! If our research interests align (or diverge) in intriguing ways, I'd be delighted to explore potential collaborations or simply exchange ideas! Additionally, I'm also looking for <strong>research internship opportunities for Summer 2025</strong>. Please feel free to reach out via email, if there is a good fit!
+
+I am also a strong advocate for diversity and mentorship in computer science research. If you’d like to chat about navigating ML/NLP research, grad school applications, or want to collaborate on a research project, please visit the [Outreach & Mentorship](./outreach) tab for more information!
+
+<!-- My research has been published at top NLP/ML venues such as <strong>TMLR, ACL, EMNLP, EACL, SIGKDD, & IJCAI</strong>.  -->
+<!-- You can learn more about my publications [here](./publications). You can find my <strong>detailed CV [here](./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf)</strong>. -->
