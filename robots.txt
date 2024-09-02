@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://atharvajk98.github.io/sitemap.xml
+Sitemap: https://athrvkk.github.io/sitemap.xml
