@@ -35,7 +35,7 @@ Before reaching out to me, please take a look at these excellent resources compi
 - [Mor Harchol-Balter -- Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 - [Tim Dettmers -- Machine Learning PhD Applications - Everything You Need to Know](https://timdettmers.com/2018/11/26/phd-applications/)
 - [Nelson Liu -- Student Perspectives on Applying to NLP PhD Programs](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
-- [Nelson Liu's -- PhD Statement of Purpose](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
+- [Nelson Liu -- PhD Statement of Purpose](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
 - [Yijia Shao -- An international student's perspective on applying for CS/AI/NLP PhD in the US ](https://cs.stanford.edu/people/shaoyj/blog/2023/apply-grad-school/)
 - [Zhijing Jin -- Resources to Help Global Equality for PhDs in NLP / AI](https://github.com/zhijing-jin/nlp-phd-global-equality)
 - [Paul Liang -- Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
