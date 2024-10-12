@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am a first year CS PhD student at the <a href="https://www.usc.edu">University of Southern California</a>, advised by <a href="https://swabhs.com">Swabha Swayamdipta</a>, and a member of <a href="https://nlp.usc.edu">USC NLP Group</a> and <a href="https://dill-lab.github.io">DILL Lab</a>.
 
-My [research](./research) focuses on <strong>theoretical & empirical understanding of language models</strong>. Specifically, I am interested in:
+My research focuses on <strong>theoretical & empirical understanding of language models</strong>. Specifically, I am interested in:
 - Building a principled understanding of when and why they work / fail.
 - Understanding the science behind their generalization capabilities.
 - Exploring avenues for improving their reliability and trustworthiness.

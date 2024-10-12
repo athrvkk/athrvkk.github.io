@@ -17,7 +17,7 @@ You can book a meeting slot in my outreach office hours [here](https://calendar.
 
 ## Research Mentorship
 
-It is great to hear that you are interested in doing research! At the moment, my bandwidth to mentor new students is limited. However, if you’re interested in my [research]() or have project ideas related to robustness, generalization, trustworthiness, and evaluation of language models, please feel free to email/slack me. I’d be glad to discuss your interests and explore any potential opportunities! 
+It is great to hear that you are interested in doing research! At the moment, my bandwidth to mentor new students is limited. However, if you’re interested in my research or have project ideas related to robustness, generalization, trustworthiness, and evaluation of language models, please feel free to email/slack me. I’d be glad to discuss your interests and explore any potential opportunities! 
 
 Additionally, I highly recommend checking out the <a href="https://nlp.usc.edu">USC NLP Group</a>. They have outstanding faculty and PhD students who are involved in some of the most exciting projects in NLP. Even if we don’t get a chance to work together, I’m confident you’ll find a great fit with them!
 
