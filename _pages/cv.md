@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: default
 permalink: /cv/
 title: CV
 # description: All news in reversed chronological order.
-nav: false
+nav: True
 nav_order: 2
 
 ---
-<embed src="../assets/pdf/Atharva_Kulkarni_CV_detailed.pdf" type="application/pdf" width="800" height="700">
+<div style="text-align: center;">
+    <embed src="../assets/pdf/Atharva_Kulkarni_CV-short.pdf" type="application/pdf" width="800" height="700" >
+</div>

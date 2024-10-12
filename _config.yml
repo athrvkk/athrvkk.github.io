@@ -239,7 +239,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: Kulkarni
+  last_name: [Kulkarni, Kulkarni<sup>*</sup>, Kulkarni*]
   first_name: [Atharva, A.]
 
   # style: association-for-computational-linguistics
@@ -252,7 +252,7 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
+  bibtex_filters: [latex, smallcaps]
 
   replace_strings: true
   join_strings: true
