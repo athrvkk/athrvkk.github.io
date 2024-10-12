@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: I’m interested in all things related to the science of language models! Below is a brief description on what I am working on and what interests me.
-nav: True
+nav: False
 nav_order: 2
 
 ---
