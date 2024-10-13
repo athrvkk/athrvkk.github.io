@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: CS PhD at <a href="https://www.usc.edu">USC</a> • MLT at <a href="https://www.lti.cs.cmu.edu/">CMU</a> • <a href="./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf">CV</a>
+subtitle: CS PhD at <a href="https://www.usc.edu">USC</a> • MLT at <a href="https://www.lti.cs.cmu.edu/">CMU</a> • <a href="./assets/pdf/Atharva_Kulkarni_CV-short.pdf">CV</a>
 # subtitle: CS PhD at <a href="https://www.usc.edu">USC</a> • Prev -- <a href="https://www.lti.cs.cmu.edu/">CMU</a>, <a href="https://machinelearning.apple.com">Apple</a>, <a href="https://www.lcs2.in">IIIT Delhi</a>  • <a href="./assets/pdf/Atharva_Kulkarni_CV-short.pdf">CV</a>
 # subtitle: CS PhD at <a href="https://www.usc.edu">USC</a> • MLT at <a href="https://www.lti.cs.cmu.edu/">CMU</a> • <a href="https://dill-lab.github.io">DILL Lab</a> • <a href="https://nlp.usc.edu">USC NLP</a> • <a href="./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf">CV</a>
 profile:
