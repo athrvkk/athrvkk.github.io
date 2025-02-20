@@ -32,9 +32,9 @@ My current research focuses on <strong>theoretical & empirical understanding of 
 I recently graduated with a <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Masters in Language Technologies (MLT)</a> from <a href="https://www.cmu.edu/">Carnegie Mellon University</a> -- <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute</a>, where I was fortunate to be advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> & <a href="http://www.phontron.com">Graham Neubig</a>. During my masters, I interned at <a href="https://machinelearning.apple.com">Apple</a> twice (summer '23 & '24) with the Siri & Information Intelligence group. 
 <!-- I worked on hallucination evaluation & synthetic data generation, both in the context of LLMs. -->
 
-Before coming to CMU, I was a Predoctoral Researcher (Research Associate) with <a href="https://tanmoychak.com/">Tanmoy Chakraborty</a> at the <a href="https://www.lcs2.in/">Laboratory for Computational Social Systems (LCS2), IIIT Delhi</a>.
+Before coming to CMU, I was a Predoctoral Researcher (Research Associate) at the <a href="https://www.lcs2.in/">Laboratory for Computational Social Systems (LCS2), IIIT Delhi</a>.
  <!-- where I worked on various research projects on multimodal machine learning, social computing, & dialog systems. -->
- Even before that, I graduated with a Bachelors in Computer Science from <a href="https://http://www.unipune.ac.in">Savitribai Phule Pune University</a>.
+ Even before that, I graduated with a Bachelors of Engineering in Computer Science from <a href="https://http://www.unipune.ac.in">Savitribai Phule Pune University</a>.
 
 
 <!-- <strong>Outreach</strong> --  -->
