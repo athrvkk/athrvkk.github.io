@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a first year CS PhD student at the <a href="https://www.usc.edu">University of Southern California</a>, advised by <a href="https://swabhs.com">Swabha Swayamdipta</a>, and a member of <a href="https://nlp.usc.edu">USC NLP Group</a> and <a href="https://dill-lab.github.io">DILL Lab</a>. Currently, I am a visiting student researcher at <a href="https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-2">UC Berkeley -- Simons Institute for the Theory of Computing</a>.
+Hello! I am a first year CS PhD student at the <a href="https://www.usc.edu">University of Southern California</a>, advised by <a href="https://swabhs.com">Swabha Swayamdipta</a>, and a member of <a href="https://dill-lab.github.io">DILL Lab</a> and <a href="https://nlp.usc.edu">USC NLP Group</a>. Currently, I am a visiting student researcher at <a href="https://simons.berkeley.edu/programs/special-year-large-language-models-transformers-part-2">UC Berkeley -- Simons Institute for the Theory of Computing</a>.
 
 My current research focuses on <strong>theoretical & empirical understanding of language models</strong>. Specifically, I am interested in:
 - Building a principled understanding of when & why they work / fail.
@@ -29,7 +29,7 @@ My current research focuses on <strong>theoretical & empirical understanding of 
 
 <!-- My [research](./research) lie at the intersection of machine learning & natural language processing, with a particular focus on <strong>Robust, Generalizable, & Trustworthy NLP</strong>. More recently, I have been interested in <strong>uncertainty quantification</strong> and <strong>evaluating robustness of langauge models</strong>.  -->
 
-I recently graduated with a <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Masters in Language Technologies (MLT)</a> from <a href="https://www.cmu.edu/">Carnegie Mellon University</a> -- <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute</a>, where I was fortunate to be advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> & <a href="http://www.phontron.com">Graham Neubig</a>. During my masters, I interned at <a href="https://machinelearning.apple.com">Apple</a> twice (summer '23 & '24) with the Siri & Information Intelligence group. 
+I completed my <a href="https://www.lti.cs.cmu.edu/academics/masters-programs/mlt.html">Masters in Language Technologies (MLT)</a> from <a href="https://www.cmu.edu/">Carnegie Mellon University</a> -- <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute</a>, where I was fortunate to be advised by <a href="https://www.cs.cmu.edu/~bapoczos/">Barnabás Póczos</a> & <a href="http://www.phontron.com">Graham Neubig</a>. During my masters, I interned at <a href="https://machinelearning.apple.com">Apple</a> (summer '23 & '24) with the Siri & Information Intelligence group. 
 <!-- I worked on hallucination evaluation & synthetic data generation, both in the context of LLMs. -->
 
 Before coming to CMU, I was a Predoctoral Researcher (Research Associate) at the <a href="https://www.lcs2.in/">Laboratory for Computational Social Systems (LCS2), IIIT Delhi</a>.
