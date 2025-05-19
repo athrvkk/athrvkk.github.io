@@ -1,35 +1,50 @@
 ---
 ---
+@article{kulkarni2025evaluatingevaluationmetrics,
+      title={Evaluating Evaluation Metrics -- The Mirage of Hallucination Detection},
+      author={Atharva Kulkarni and Yuan Zhang and Joel Ruben Antony Moniz and Xiou Ge and Bo-Hsiang Tseng and Dhivya Piraviperumal and Swabha Swayamdipta and Hong Yu},
+      year={2025},
+      abbr={arXiv},
+      journal={Under Review},
+      url={https://arxiv.org/abs/2504.18114},
+      abstract={Hallucinations pose a significant obstacle to the reliability and widespread adoption of language models, yet their accurate measurement remains a persistent challenge. While many task- and domain-specific metrics have been proposed to assess faithfulness and factuality concerns, the robustness and generalization of these metrics are still untested. In this paper, we conduct a large-scale empirical evaluation of 6 diverse sets of hallucination detection metrics across 4 datasets, 37 language models from 5 families, and 5 decoding methods. Our extensive investigation reveals concerning gaps in current hallucination evaluation: metrics often fail to align with human judgments, take an overtly myopic view of the problem, and show inconsistent gains with parameter scaling. Encouragingly, LLM-based evaluation, particularly with GPT-4, yields the best overall results, and mode-seeking decoding methods seem to reduce hallucinations, especially in knowledge-grounded settings. These findings underscore the need for more robust metrics to understand and quantify hallucinations, and better strategies to mitigate them.}
+}
 
-@string{aps = {American Physical Society,}}
-
-@inproceedings{hengle2024quitethereevaluatinglarge,
-      title={Still Not Quite There! Evaluating Large Language Models for Comorbid Mental Health Diagnosis}, 
-      author={Amey Hengle<sup>*</sup> and Atharva Kulkarni<sup>*</sup> and Shantanu Patankar and Madhumitha Chandrasekaran and Sneha D'Silva and Jemima Jacob and Rashmi Gupta},
-      year={2024},
-      booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
-      month = nov,
-      year = "2024",
-      publisher = "Association for Computational Linguistics",
-      abbr={EMNLP},
-      code = {https://github.com/AmeyHengle/ANGST},
-      html={https://arxiv.org/abs/2410.03908}, 
-      pdf={https://arxiv.org/pdf/2410.03908},
-      abstract="In this study, we introduce ANGST, a novel, first-of-its kind benchmark for depression-anxiety comorbidity classification from social media posts. Unlike contemporary datasets that often oversimplify the intricate interplay between different mental health disorders by treating them as isolated conditions, ANGST enables multi-label classification, allowing each post to be simultaneously identified as indicating depression and/or anxiety. Comprising 2876 meticulously annotated posts by expert psychologists and an additional 7667 silver-labeled posts, ANGST posits a more representative sample of online mental health discourse. Moreover, we benchmark ANGST using various state-of-the-art language models, ranging from Mental-BERT to GPT-4. Our results provide significant insights into the capabilities and limitations of these models in complex diagnostic scenarios. While GPT-4 generally outperforms other models, none achieve an F1 score exceeding 72% in multi-class comorbid classification, underscoring the ongoing challenges in applying language models to mental health diagnostics. "
+@inproceedings{hengle-etal-2024-still,
+    title = "Still Not Quite There! Evaluating Large Language Models for Comorbid Mental Health Diagnosis",
+    author = "Hengle, Amey  and
+      Kulkarni, Atharva  and
+      Patankar, Shantanu Deepak  and
+      Chandrasekaran, Madhumitha  and
+      D{'}silva, Sneha  and
+      Jacob, Jemima S.  and
+      Gupta, Rashmi",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    abbr={EMNLP},
+    url = "https://aclanthology.org/2024.emnlp-main.931/",
+    doi = "10.18653/v1/2024.emnlp-main.931",
+    pages = "16698--16721",
+    abstract = "In this study, we introduce ANGST, a novel, first of its kind benchmark for depression-anxiety comorbidity classification from social media posts. Unlike contemporary datasets that often oversimplify the intricate interplay between different mental health disorders by treating them as isolated conditions, ANGST enables multi-label classification, allowing each post to be simultaneously identified as indicating depression and/or anxiety. Comprising 2876 meticulously annotated posts by expert psychologists and an additional 7667 silver-labeled posts, ANGST posits a more representative sample of online mental health discourse. Moreover, we benchmark ANGST using various state-of-the-art language models, ranging from Mental-BERT to GPT-4. Our results provide significant insights into the capabilities and limitations of these models in complex diagnostic scenarios. While GPT-4 generally outperforms other models, none achieve an F1 score exceeding 72{\%} in multi-class comorbid classification, underscoring the ongoing challenges in applying language models to mental health diagnostics."
 }
 
 @article{
 kulkarni2024multitask,
 title={Multitask Learning Can Improve Worst-Group Outcomes},
 author={Atharva Kulkarni<sup>*</sup> and Lucio M. Dery<sup>*</sup> and Amrith Setlur and Aditi Raghunathan and Ameet Talwalkar and Graham Neubig},
-journal={NeurIPS 2023 SSLTheoryPractice Workshop <br> Transactions on Machine Learning Research},
+journal={Transactions on Machine Learning Research},
 issn={2835-8856},
 month={Feb},
 year={2024},
 abbr={TMLR},
 selected = {true},
-html = {https://openreview.net/forum?id=sPlhAIp6mk},
-pdf = {https://openreview.net/pdf?id=sPlhAIp6mk},
+url = {https://openreview.net/forum?id=sPlhAIp6mk},
 code = {https://github.com/athrvkk/MTL-group-robustness},
 abstract = "In order to create machine learning systems that serve a variety of users well, it is vital to not only achieve high average performance but also ensure equitable outcomes across diverse groups. However, most machine learning methods are designed to improve a model’s average performance on a chosen end task without consideration for their impact on worst group error. Multitask learning (MTL) is one such widely used technique. In this paper, we seek not only to understand the impact of MTL on worst-group accuracy but also to explore its potential as a tool to address the challenge of group-wise fairness. We primarily consider the standard setting of fine-tuning a pre-trained model, where, following recent work (Gururangan et al., 2020; Dery et al., 2023), we multitask the end task with the pre-training objective constructed from the end task data itself. In settings with few or no group annotations, we find that multitasking often, but not consistently, achieves better worst-group accuracy than Just-Train-Twice (JTT; Liu et al. (2021)) – a representative distributionally robust optimization (DRO) method. Leveraging insights from synthetic data experiments, we propose to modify standard MTL by regularizing the joint multitask representation space. We run a large number of fine-tuning experiments across computer vision and natural language processing datasets and find that our regularized MTL approach consistently outperforms JTT on both average and worst-group outcomes. Our official code can be found here: https://github.com/athrvkk/MTL-group-robustness.",
 }
@@ -52,9 +67,7 @@ abstract = "In order to create machine learning systems that serve a variety of 
     url = "https://aclanthology.org/2024.eacl-long.120",
     pages = "1988--2001",
     abbr={EACL},
-    selected = {true},
-    html = "https://aclanthology.org/2024.eacl-long.120",
-    pdf = {https://aclanthology.org/2024.eacl-long.120.pdf},
+    url = "https://aclanthology.org/2024.eacl-long.120",
     code = {https://github.com/apple/ml-synthdst},
     abstract = "In-context learning with Large Language Models (LLMs) has emerged as a promising avenue of research in Dialog State Tracking (DST). However, the best-performing in-context learning methods involve retrieving and adding similar examples to the prompt, requiring access to labeled training data. Procuring such training data for a wide range of domains and applications is time-consuming, expensive, and, at times, infeasible. While zero-shot learning requires no training data, it significantly lags behind the few-shot setup. Thus, {`}\textit{Can we efficiently generate synthetic data for any dialogue schema to enable few-shot prompting?}' Addressing this question, we propose , a data generation framework tailored for DST, utilizing LLMs. Our approach only requires the dialogue schema and a few hand-crafted dialogue templates to synthesize natural, coherent, and free-flowing dialogues with DST annotations. Few-shot learning using data from results in $4-5\%$ improvement in Joint Goal Accuracy over the zero-shot baseline on MultiWOZ 2.1 and 2.4. Remarkably, our few-shot learning approach recovers nearly 98{\%} of the performance compared to the few-shot setup using human-annotated training data.",
 }
@@ -68,15 +81,14 @@ abstract = "In order to create machine learning systems that serve a variety of 
     editor = "Bouamor, Houda  and
       Pino, Juan  and
       Bali, Kalika",
-    booktitle = "NeurIPS 2023 SyntheticData4ML Workshop <br> Findings of the Association for Computational Linguistics: EMNLP 2023",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
     month = dec,
     year = "2023",
     address = "Singapore",
     publisher = "Association for Computational Linguistics",
     pages = "6762--6778",
     abbr={EMNLP (Findings)},
-    html = {https://aclanthology.org/2023.findings-emnlp.451},
-    pdf = {https://aclanthology.org/2023.findings-emnlp.451.pdf},
+    url = {https://aclanthology.org/2023.findings-emnlp.451},
     code = {https://github.com/DhananjayAshok/SciFix},
     abstract = "Due to the prohibitively high cost of creating error correction datasets, most Factual Claim Correction methods rely on a powerful verification model to guide the correction process. This leads to a significant drop in performance in domains like Scientific Claim Correction, where good verification models do not always exist. In this work we introduce SciFix, a claim correction system that does not require a verifier but is able to outperform existing methods by a considerable margin {---} achieving correction accuracy of 84{\%} on the SciFact dataset, 77{\%} on SciFact-Open and 72.75{\%} on the CovidFact dataset, compared to next best accuracies of 7.6{\%}, 5{\%} and 15{\%} on the same datasets respectively. Our method leverages the power of prompting with LLMs during training to create a richly annotated dataset that can be used for fully supervised training and regularization. We additionally use a claim-aware decoding procedure to improve the quality of corrected claims. Our method outperforms the very LLM that was used to generate the annotated dataset {---} with FewShot Prompting on GPT3.5 achieving 58{\%}, 61{\%} and 64{\%} on the respective datasets, a consistently lower correction accuracy, despite using nearly 800 times as many parameters as our model.",
 }
@@ -108,8 +120,7 @@ abstract = "In order to create machine learning systems that serve a variety of 
     doi = "10.18653/v1/2023.emnlp-main.401",
     pages = "6508--6524",
     abbr={EMNLP},
-    html = {https://aclanthology.org/2023.emnlp-main.401},
-    pdf = {https://aclanthology.org/2023.emnlp-main.401.pdf},
+    url = {https://aclanthology.org/2023.emnlp-main.401},
     code = {https://github.com/dmort27/chatgpts-wugs},
     abstract = "Large language models (LLMs) have recently reached an impressive level of linguistic capability, prompting comparisons with human language skills. However, there have been relatively few systematic inquiries into the linguistic capabilities of the latest generation of LLMs, and those studies that do exist (i) ignore the remarkable ability of humans to generalize, (ii) focus only on English, and (iii) investigate syntax or semantics and overlook other capabilities that lie at the heart of human language, like morphology. Here, we close these gaps by conducting the first rigorous analysis of the morphological capabilities of ChatGPT in four typologically varied languages (specifically, English, German, Tamil, and Turkish). We apply a version of Berko{'}s (1958) wug test to ChatGPT, using novel, uncontaminated datasets for the four examined languages. We find that ChatGPT massively underperforms purpose-built systems, particularly in English. Overall, our results{---}through the lens of morphology{---}cast a new light on the linguistic capabilities of ChatGPT, suggesting that claims of human-like language skills are premature and misleading.",
 }
@@ -132,9 +143,7 @@ keywords = {hindi-codemixed dataset, content moderation tool, online hate speech
 location = {<conf-loc>, <city>Long Beach</city>, <state>CA</state>, <country>USA</country>, </conf-loc>},
 series = {KDD '23},
 abbr={SIGKDD},
-selected = {true},
-html = {https://doi.org/10.1145/3580305.3599896},
-pdf = {https://dl.acm.org/doi/pdf/10.1145/3580305.3599896},
+url = {https://doi.org/10.1145/3580305.3599896},
 code = {https://github.com/LCS2-IIITD/GotHate},
 }
 
@@ -153,9 +162,7 @@ code = {https://github.com/LCS2-IIITD/GotHate},
   url       = {https://doi.org/10.24963/ijcai.2023/709},
   abstract  = {Poverty is a multifaceted phenomenon linked to the lack of capabilities of households to earn a sustainable livelihood, increasingly being assessed using multidimensional indicators. Its spatial pattern depends on social, economic, political, and regional variables. Artificial intelligence has shown immense scope in analyzing the complexities and nuances of poverty. The proposed project aims to examine the poverty situation of rural India for the period of 1990-2022 based on the quality of life and livelihood indicators. The districts will be classified into `advanced', `catching up', `falling behind', and `lagged' regions. The project proposes to integrate multiple data sources, including conventional national-level large sample household surveys, census surveys, and proxy variables like daytime, and nighttime data from satellite images, and communication networks, to name a few, to provide a comprehensive view of poverty at the district level. The project also intends to examine causation and longitudinal analysis to examine the reasons for poverty. Poverty and inequality could be widening in developing countries due to demographic and growth-agglomerating policies. Therefore, targeting the lagging regions and the vulnerable population is essential to eradicate poverty and improve the quality of life to achieve the goal of `zero poverty'. Thus, the study also focuses on the districts with a higher share of the marginal section of the population compared to the national average to trace the performance of development indicators and their association with poverty in these regions.},
   abbr={IJCAI},
-  selected  = {true},
-  html = {https://www.ijcai.org/proceedings/2023/709},
-  pdf = {https://www.ijcai.org/proceedings/2023/0709.pdf},
+  url = {https://www.ijcai.org/proceedings/2023/709},
 }
 
 @inproceedings{sharma-etal-2023-characterizing,
@@ -178,8 +185,7 @@ code = {https://github.com/LCS2-IIITD/GotHate},
     doi = "10.18653/v1/2023.eacl-main.157",
     pages = "2149--2163",
     abbr={EACL},
-    html = {https://aclanthology.org/2023.eacl-main.157},
-    pdf = {https://aclanthology.org/2023.eacl-main.157.pdf},
+    url = {https://aclanthology.org/2023.eacl-main.157},
     code = {https://github.com/LCS2-IIITD/VECTOR-Visual-semantic-role-dEteCToR},
     abstract = "Memes can sway people{'}s opinions over social media as they combine visual and textual information in an easy-to-consume manner. Since memes instantly turn viral, it becomes crucial to infer their intent and potentially associated harmfulness to take timely measures as needed. A common problem associated with meme comprehension lies in detecting the entities referenced and characterizing the role of each of these entities. Here, we aim to understand whether the meme glorifies, vilifies, or victimizes each entity it refers to. To this end, we address the task of role identification of entities in harmful memes, i.e., detecting who is the {`}hero{'}, the {`}villain{'}, and the {`}victim{'} in the meme, if any. We utilize HVVMemes {--} a memes dataset on US Politics and Covid-19 memes, released recently as part of the CONSTRAINT@ACL-2022 shared-task. It contains memes, entities referenced, and their associated roles: hero, villain, victim, and other. We further design VECTOR (Visual-semantic role dEteCToR), a robust multi-modal framework for the task, which integrates entity-based contextual information in the multi-modal representation and compare it to several standard unimodal (text-only or image-only) or multi-modal (image+text) models. Our experimental results show that our proposed model achieves an improvement of 4{\%} over the best baseline and 1{\%} over the best competing stand-alone submission from the shared-task. Besides divulging an extensive experimental setup with comparative analyses, we finally highlight the challenges encountered in addressing the complex task of semantic role labeling within memes.",
 }
@@ -202,10 +208,8 @@ code = {https://github.com/LCS2-IIITD/GotHate},
     url = "https://aclanthology.org/2022.emnlp-main.525",
     doi = "10.18653/v1/2022.emnlp-main.525",
     pages = "7701--7715",
-    selected = {true},
     abbr={EMNLP},
-    html = {https://aclanthology.org/2022.emnlp-main.525},
-    pdf = {https://aclanthology.org/2022.emnlp-main.525.pdf},
+    url = {https://aclanthology.org/2022.emnlp-main.525},
     code = {https://github.com/LCS2-IIITD/DABERTA-EMNLP-2022},
     abstract = "The widespread diffusion of medical and political claims in the wake of COVID-19 has led to a voluminous rise in misinformation and fake news. The current vogue is to employ manual fact-checkers to efficiently classify and verify such data to combat this avalanche of claim-ridden misinformation. However, the rate of information dissemination is such that it vastly outpaces the fact-checkers{'} strength. Therefore, to aid manual fact-checkers in eliminating the superfluous content, it becomes imperative to automatically identify and extract the snippets of claim-worthy (mis)information present in a post. In this work, we introduce the novel task of Claim Span Identification (CSI). We propose CURT, a large-scale Twitter corpus with token-level claim spans on more than 7.5k tweets. Furthermore, along with the standard token classification baselines, we benchmark our dataset with DABERTa, an adapter-based variation of RoBERTa. The experimental results attest that DABERTa outperforms the baseline systems across several evaluation metrics, improving by about 1.5 points. We also report detailed error analysis to validate the model{'}s performance along with the ablation studies. Lastly, we release our comprehensive span annotation guidelines for public use.",
 }
@@ -227,10 +231,8 @@ code = {https://github.com/LCS2-IIITD/GotHate},
     url = "https://aclanthology.org/2022.acl-long.411",
     doi = "10.18653/v1/2022.acl-long.411",
     pages = "5956--5968",
-    selected = {true},
     abbr={ACL},
-    html = {https://aclanthology.org/2022.acl-long.411},
-    pdf = {https://aclanthology.org/2022.acl-long.411.pdf},
+    url = {https://aclanthology.org/2022.acl-long.411},
     code = {https://github.com/lcs2-iiitd/maf},
     abstract = "Indirect speech such as sarcasm achieves a constellation of discourse goals in human communication. While the indirectness of figurative language warrants speakers to achieve certain pragmatic goals, it is challenging for AI agents to comprehend such idiosyncrasies of human communication. Though sarcasm identification has been a well-explored topic in dialogue analysis, for conversational systems to truly grasp a conversation{'}s innate meaning and generate appropriate responses, simply detecting sarcasm is not enough; it is vital to explain its underlying sarcastic connotation to capture its true essence. In this work, we study the discourse structure of sarcastic conversations and propose a novel task {--} Sarcasm Explanation in Dialogue (SED). Set in a multimodal and code-mixed setting, the task aims to generate natural language explanations of satirical conversations. To this end, we curate WITS, a new dataset to support our task. We propose MAF (Modality Aware Fusion), a multimodal context-aware attention and global information fusion module to capture multimodality and use it to benchmark WITS. The proposed attention module surpasses the traditional multimodal fusion baselines and reports the best performance on almost all metrics. Lastly, we carry out detailed analysis both quantitatively and qualitatively.",
 }
@@ -259,9 +261,8 @@ code = {https://github.com/LCS2-IIITD/GotHate},
     url = "https://aclanthology.org/2022.constraint-1.1",
     doi = "10.18653/v1/2022.constraint-1.1",
     pages = "1--11",
-    abbr={CONSTRAINT (ACL)},
-    html = {https://aclanthology.org/2022.constraint-1.1},
-    pdf = {https://aclanthology.org/2022.constraint-1.1.pdf},
+    abbr={CONSTRAINT},
+    url = {https://aclanthology.org/2022.constraint-1.1},
     abstract = "We present the findings of the shared task at the CONSTRAINT 2022 Workshop: Hero, Villain, and Victim: Dissecting harmful memes for Semantic role labeling of entities. The task aims to delve deeper into the domain of meme comprehension by deciphering the connotations behind the entities present in a meme. In more nuanced terms, the shared task focuses on determining the victimizing, glorifying, and vilifying intentions embedded in meme entities to explicate their connotations. To this end, we curate HVVMemes, a novel meme dataset of about 7000 memes spanning the domains of COVID-19 and US Politics, each containing entities and their associated roles: hero, villain, victim, or none. The shared task attracted 105 participants, but eventually only 6 submissions were made. Most of the successful submissions relied on fine-tuning pre-trained language and multimodal models along with ensembles. The best submission achieved an F1-score of 58.67.",
 }
 
@@ -284,9 +285,8 @@ code = {https://github.com/LCS2-IIITD/GotHate},
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2021.louhi-1.10",
     pages = "83--93",
-    abbr={LOUHI (EACL)},
-    html = {https://aclanthology.org/2021.louhi-1.10},
-    pdf = {https://aclanthology.org/2021.louhi-1.10.pdf},
+    abbr={LOUHI},
+    url = {https://aclanthology.org/2021.louhi-1.10},
     abstract = "With mental health as a problem domain in NLP, the bulk of contemporary literature revolves around building better mental illness prediction models. The research focusing on the identification of discussion clusters in online mental health communities has been relatively limited. Moreover, as the underlying methodologies used in these studies mainly conform to the traditional machine learning models and statistical methods, the scope for introducing contextualized word representations for topic and theme extraction from online mental health communities remains open. Thus, in this research, we propose topic-infused deep contextualized representations, a novel data representation technique that uses autoencoders to combine deep contextual embeddings with topical information, generating robust representations for text clustering. Investigating the Reddit discourse on Post-Traumatic Stress Disorder (PTSD) and Complex Post-Traumatic Stress Disorder (C-PTSD), we elicit the thematic clusters representing the latent topics and themes discussed in the r/ptsd and r/CPTSD subreddits. Furthermore, we also present a qualitative analysis and characterization of each cluster, unraveling the prevalent discourse themes.",
 }
 
@@ -310,9 +310,8 @@ code = {https://github.com/LCS2-IIITD/GotHate},
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2021.wassa-1.11",
     pages = "105--111",
-    abbr={WASSA (EACL)},
-    html = {https://aclanthology.org/2021.wassa-1.11},
-    pdf = {https://aclanthology.org/2021.wassa-1.11.pdf},
+    abbr={WASSA},
+    url = {https://aclanthology.org/2021.wassa-1.11},
     code = {https://github.com/athrvkk/EACL-WASSA-2021-Empathy-Distress},
     abstract = "Active research pertaining to the affective phenomenon of empathy and distress is invaluable for improving human-machine interaction. Predicting intensities of such complex emotions from textual data is difficult, as these constructs are deeply rooted in the psychological theory. Consequently, for better prediction, it becomes imperative to take into account ancillary factors such as the psychological test scores, demographic features, underlying latent primitive emotions, along with the text{'}s undertone and its psychological complexity. This paper proffers team PVG{'}s solution to the WASSA 2021 Shared Task on Predicting Empathy and Emotion in Reaction to News Stories. Leveraging the textual data, demographic features, psychological test score, and the intrinsic interdependencies of primitive emotions and empathy, we propose a multi-input, multi-task framework for the task of empathy score prediction. Here, the empathy score prediction is considered the primary task, while emotion and empathy classification are considered secondary auxiliary tasks. For the distress score prediction task, the system is further boosted by the addition of lexical features. Our submission ranked 1st based on the average correlation (0.545) as well as the distress correlation (0.574), and 2nd for the empathy Pearson correlation (0.517).",
 }
@@ -340,8 +339,7 @@ code = {https://github.com/LCS2-IIITD/GotHate},
     url = "https://aclanthology.org/2020.icon-techdofication.9",
     pages = "40--46",
     abbr={ICON},
-    html = {https://aclanthology.org/2020.icon-techdofication.9},
-    pdf = {https://aclanthology.org/2020.icon-techdofication.9.pdf},
+    url = {https://aclanthology.org/2020.icon-techdofication.9},
     code = {https://github.com/athrvkk/ICON-2020-TechDoFication},
     abstract = "The recent surge of complex attention-based deep learning architectures has led to extraordinary results in various downstream NLP tasks in the English language. However, such research for resource-constrained and morphologically rich Indian vernacular languages has been relatively limited. This paper proffers a solution for the TechDOfication 2020 subtask-1f: which focuses on the coarse-grained technical domain identification of short text documents in Marathi, a Devanagari script-based Indian language. Availing the large dataset at hand, a hybrid CNN-BiLSTM attention ensemble model is proposed that competently combines the intermediate sentence representations generated by the convolutional neural network and the bidirectional long short-term memory, leading to efficient text classification. Experimental results show that the proposed model outperforms various baseline machine learning and deep learning models in the given task, giving the best validation accuracy of 89.57{\%} and f1-score of 0.8875. Furthermore, the solution resulted in the best system submission for this subtask, giving a test accuracy of 64.26{\%} and f1-score of 0.6157, transcending the performances of other teams as well as the baseline system given by the organizers of the shared task.",
 }
@@ -352,10 +350,10 @@ code = {https://github.com/LCS2-IIITD/GotHate},
   title={Smart Cap: A Deep Learning and IoT Based Assistant for the Visually Impaired}, 
   year={2020},
   pages={1109-1116},
-  abbr={IEEE ICSSIT},
-  doi={10.1109/ICSSIT48917.2020.9214140}},
-  html = {https://ieeexplore.ieee.org/document/9214140},
-  url = {https://ieeexplore.ieee.org/document/9214140},
-  pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9214140},
-  abs = {India is home to the largest number of visually impaired people in the world, about 40 million, which accounts for 20% of the world's blind population. Moreover, more than 90% of these people have little to no access to the necessary assistive technologies. The paper proposes `Smart Cap,' a first-person vision-based assistant, aimed at bringing the world as a narrative to these visually impaired people of India. The Smart Cap acts as a conversational agent bringing together the disciplines of Internet of Things and Deep Learning and provides features like face recognition, image captioning, text detection and recognition, and online newspaper reading. The hardware architecture consists of a Raspberry Pi, a USB webcam, a USB microphone, earphones, power source, and extension cables. The user can interact with the Smart Cap by giving specific commands, which trigger the corresponding feature module that returns an audio output. The face recognition module is based on the dlib's face recognition project. It is a two-step process of detecting a face in the image and identifying it. The image captioning task synthesizes an attention-based CNN-LSTM encoder-decoder model coupled with beam search for finding the best caption. Google's Vision API service is used for text detection and recognition. An additional feature of online newspaper reading is also provided, thus, keeping the blind person up to date with the daily news.},
+  abbr={ICSSIT},
+  doi={10.1109/ICSSIT48917.2020.9214140},
+  url={https://ieeexplore.ieee.org/document/9214140},
+  url={https://ieeexplore.ieee.org/document/9214140},
+  pdf={https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9214140},
+  abs={India is home to the largest number of visually impaired people in the world, about 40 million, which accounts for 20% of the world's blind population. Moreover, more than 90% of these people have little to no access to the necessary assistive technologies. The paper proposes `Smart Cap,' a first-person vision-based assistant, aimed at bringing the world as a narrative to these visually impaired people of India. The Smart Cap acts as a conversational agent bringing together the disciplines of Internet of Things and Deep Learning and provides features like face recognition, image captioning, text detection and recognition, and online newspaper reading. The hardware architecture consists of a Raspberry Pi, a USB webcam, a USB microphone, earphones, power source, and extension cables. The user can interact with the Smart Cap by giving specific commands, which trigger the corresponding feature module that returns an audio output. The face recognition module is based on the dlib's face recognition project. It is a two-step process of detecting a face in the image and identifying it. The image captioning task synthesizes an attention-based CNN-LSTM encoder-decoder model coupled with beam search for finding the best caption. Google's Vision API service is used for text detection and recognition. An additional feature of online newspaper reading is also provided, thus, keeping the blind person up to date with the daily news.},
 }
