@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 
 ---
-Publications in reversed chronological order. My <a href="https://scholar.google.com/citations?user=tQTAiXwAAAAJ&hl=en"> Google Scholar </a> is more likely to be up to date.
+Publications in reversed chronological order. My <a href="https://scholar.google.com/citations?user=tQTAiXwAAAAJ&hl=en" style="font-weight: bold;">Google Scholar</a> is more likely to be up to date.
 
 <!-- _pages/publications.md -->
 <div class="publications">
