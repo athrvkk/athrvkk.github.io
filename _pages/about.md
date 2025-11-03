@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
 Hello! I am a second year CS PhD student at the <a href="https://www.usc.edu">University of Southern California</a>, advised by <a href="https://swabhs.com">Swabha Swayamdipta</a>, and a member of <a href="https://dill-lab.github.io">DILL Lab</a> and <a href="https://nlp.usc.edu">USC NLP Group</a>.
 
 My broad research focus is on <strong>theoretical & empirical understanding of foundation models</strong>. Specifically, I am interested in:
-- Building a principled understanding of when & why they work / fail.
 - Studying their learning dynamics, geometric properties, & structural constraints.
-- Understanding the science behind their scaling, & generalization capabilities.
+- Understanding the science behind their scaling & generalization capabilities.
+- Building a principled understanding of when & why they work / fail.
 - Exploring avenues for improving their reliability, safety, & trustworthiness.
 
 <strong style="color: red;">I am actively looking for summer 2026 research internships around these topics — feel free to reach out if you're hiring!</strong>
