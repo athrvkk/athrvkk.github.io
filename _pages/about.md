@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle: CS PhD at <a href="https://www.usc.edu">USC</a> • MLT at <a href="https://www.lti.cs.cmu.edu/">CMU</a> • <a href="./assets/pdf/Atharva_Kulkarni_CV-short.pdf">CV</a>
-# subtitle: CS PhD at <a href="https://www.usc.edu">USC</a> • Prev -- <a href="https://www.lti.cs.cmu.edu/">CMU</a>, <a href="https://machinelearning.apple.com">Apple</a>, <a href="https://www.lcs2.in">IIIT Delhi</a>  • <a href="./assets/pdf/Atharva_Kulkarni_CV-short.pdf">CV</a>
-# subtitle: CS PhD at <a href="https://www.usc.edu">USC</a> • MLT at <a href="https://www.lti.cs.cmu.edu/">CMU</a> • <a href="https://dill-lab.github.io">DILL Lab</a> • <a href="https://nlp.usc.edu">USC NLP</a> • <a href="./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf">CV</a>
+# subtitle: CS PhD at <a href="https://www.usc.edu">USC</a> • MLT at <a href="https://www.lti.cs.cmu.edu/">CMU</a> • <a href="./assets/pdf/Atharva_Kulkarni_CV.pdf">CV</a>
 profile:
   align: right
   # image: malta_profile.jpeg
@@ -44,9 +42,5 @@ Before coming to CMU, I was a Predoctoral Researcher (Research Associate) at the
 
 <!-- <strong>Outreach</strong> --  -->
 I'm eager to connect with my academic peers! If our research interests align (or diverge) in intriguing ways, I'd be delighted to explore potential collaborations or simply exchange ideas! 
-<!-- Additionally, I'm also looking for <strong>research internship opportunities for summer 2025</strong>. Please feel free to reach out, if there is a good fit! -->
 
-I am also a strong advocate for diversity and mentorship in computer science research. If you’d like to chat about navigating ML/NLP research, grad school applications, or want to collaborate on a research project, please visit the [Outreach & Mentorship](./outreach) tab for more information.
-
-<!-- My research has been published at top NLP/ML venues such as <strong>TMLR, ACL, EMNLP, EACL, SIGKDD, & IJCAI</strong>.  -->
-<!-- You can learn more about my publications [here](./publications). You can find my <strong>detailed CV [here](./assets/pdf/Atharva_Kulkarni_CV_detailed.pdf)</strong>. -->
+If you’d like to chat about navigating ML/NLP research, grad school applications, or want to collaborate on a research project, please visit the [Outreach](./outreach) tab for more information.

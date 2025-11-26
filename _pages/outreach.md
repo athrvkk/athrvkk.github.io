@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /outreach/
-title: Outreach & Mentorship
+title: Outreach
 # description: All news in reversed chronological order.
 nav: true
 nav_order: 6
@@ -10,16 +10,19 @@ nav_order: 6
 
 # Outreach 
 
-I have been incredibly fortunate to receive invaluable advice from various friends and colleagues at CMU, including <a href="https://scholar.google.com/citations?user=ggFzw0MAAAAJ&hl=en&oi=ao">Lucio Dery</a>, <a href="https://scholar.google.com/citations?user=i7V1kJgAAAAJ&hl=en&oi=sra">Amrith Setlur</a>, <a href="https://scholar.google.com/citations?user=yInhszwAAAAJ&hl=en">Simran Khanuja</a>, and <a href="https://scholar.google.com/citations?user=G1Jw4CYAAAAJ&hl=en&oi=ao">Amanda Bertsch</a>, amongst others, who have mentored me in my research projects and grad school applications. Now that I'm a PhD student, I am committed to giving back to the academic community. I would be thrilled to support and mentor aspiring researchers, <strong>especially those from underrepresented communities</strong>.
+I have been incredibly fortunate to receive invaluable advice from various friends and colleagues at CMU, including <a href="https://scholar.google.com/citations?user=ggFzw0MAAAAJ&hl=en&oi=ao">Lucio Dery</a>, <a href="https://scholar.google.com/citations?user=i7V1kJgAAAAJ&hl=en&oi=sra">Amrith Setlur</a>, <a href="https://scholar.google.com/citations?user=yInhszwAAAAJ&hl=en">Simran Khanuja</a>, and <a href="https://scholar.google.com/citations?user=G1Jw4CYAAAAJ&hl=en&oi=ao">Amanda Bertsch</a>, amongst others, who have mentored me in my research projects and grad school applications. Now that I'm a PhD student, I am committed to giving back to the academic community. I would be thrilled to support and mentor aspiring researchers, especially those from underrepresented communities.
 
 
 You can book a meeting slot in my outreach office hours [here](https://calendar.app.google/Ekko2kLsNFxgMQKe8).
 
-## Research Mentorship
+## Research Mentorship / Collaboration
 
-It is great to hear that you are interested in doing research! At the moment, my bandwidth to mentor new students is limited. However, if you’re interested in my research or have project ideas related to robustness, generalization, trustworthiness, and evaluation of language models, please feel free to email/slack me. I’d be glad to discuss your interests and explore any potential opportunities! 
+It is great to hear that you are interested in doing ML research! If you’re interested in my research or have project ideas related to 
+- The science of Foundation models
+- Understanding their failure modes, limitations, & geometric properties
+- Making them more robust & generalizable
 
-Additionally, I highly recommend checking out the <a href="https://nlp.usc.edu">USC NLP Group</a>. They have outstanding faculty and PhD students who are involved in some of the most exciting projects in NLP. Even if we don’t get a chance to work together, I’m confident you’ll find a great fit with them!
+Then please feel free to email/slack me. I’d be glad to discuss your interests and explore any potential opportunities! 
 
 <!-- As someone who is passionate about both conducting research and mentoring, I understand how valuable time and effort are for both mentors and mentees. To ensure a good fit for both of us, I would appreciate it if you could complete a demonstration of interest. This small demo project or write-up will help us get a sense of our potential collaboration. Your demo might include:
 
@@ -28,7 +31,7 @@ Additionally, I highly recommend checking out the <a href="https://nlp.usc.edu">
 - Results from an initial experiment, along with an interpretation and suggestions for future steps. -->
 
 ## Grad School Mentorship
-I am always excited to help prospective students with grad school applications. Please note that my expertise is primarily in research-based Master's and PhD programs (particularly in ML and NLP). I may not be as well-equipped to guide you through applications for other types of graduate programs, such as software tracks in MSCS, MS in Information Systems, and MS in Business Analytics, to name a few. Nonetheless, feel free to reach out with any questions, and I'll do my best to help!
+I am always excited to help prospective students with grad school applications (research-based MS and PhD programs in ML/NLP). Please note that my expertise is primarily in  (particularly in ML and NLP). Feel free to reach out with any questions, and I'll do my best to help!
 
 Before reaching out to me, please take a look at these excellent resources compiled by various talented students. I found them to be immensely helpful during my MS/PhD applications. 
 - [Notion List -- CS PhD Statements of Purpose](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
